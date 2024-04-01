@@ -7,7 +7,7 @@ hero:
   text: "A Top Dev Project"
   tagline: Free Subdomain Hosting Panel
   image:
-    src: "https://rodns.top/images/logo.png"
+    src: "https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/6/e/7/8/6e78d7cb780320cdd30da2beb66faffdf6d5ccb4.png"
     alt: image
   actions:
     - theme: brand
