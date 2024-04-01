@@ -6,6 +6,9 @@ hero:
   name: "RoDNS Docs"
   text: "A Top Dev Project"
   tagline: Free Subdomain Hosting Panel
+  image:
+    src: "https://rodns.top/images/logo.png"
+    alt: image
   actions:
     - theme: brand
       text: Get Started
