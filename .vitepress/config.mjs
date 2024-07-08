@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Panel', link: 'https://rodns.top/' },
+      { text: 'Panel', link: 'https://dns.rodev.top/' },
       { text: 'DevForum', link: 'https://devforum.roblox.com/t/rodns-free-subdomain-hosting' }
     ],
 
@@ -42,7 +42,7 @@ export default defineConfig({
     ],
 
     footer: {
-      copyright: "Copyright@ 2024 <a href=http://rodns.top>RoDNS</a>, <a href=http://docs.rodns.top>RoDNS Docs</a> | Powered by <a href=http://rodev.top>Top Dev</a>"
+      copyright: "Copyright@ 2024 <a href=http://dns.rodev.top>RoDNS</a>, <a href=http://dns-docs.rodev.top>RoDNS Docs</a> | Powered by <a href=http://rodev.top>Top Dev</a>"
     },
 
     search: {
